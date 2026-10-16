@@ -1,0 +1,32 @@
+[
+  {
+    "path": "cross_seed_hodge_summary.json",
+    "bytes": 98497,
+    "sha256": "fd6ab60cad109b40f9bfadf25ad8c1e8993799ac3012f9da2b96f4ff497e0c9e"
+  },
+  {
+    "path": "seed_setting_contrasts.csv",
+    "bytes": 9702,
+    "sha256": "aaedbf32fb81480edcc452ed6db226ad19a51d81a673afb90515550263c9591b"
+  },
+  {
+    "path": "baseline_seed_phase_means.csv",
+    "bytes": 4920,
+    "sha256": "c8eda8d0bf37737e936b12f33196ec95112ac5a298e9f83f7ce26bacda8540c6"
+  },
+  {
+    "path": "generated/eight_seed_hodge_macros.tex",
+    "bytes": 1683,
+    "sha256": "1db6ebf8957247967bde0fb92e37daaa34fe89ecc449c3dba4cc202c548baa32"
+  },
+  {
+    "path": "generated/eight_seed_hodge_baseline_rows.tex",
+    "bytes": 551,
+    "sha256": "d50b536232e59d928e19a3e270cf2ff2195469a3aba5635316ef881ae3710a4b"
+  },
+  {
+    "path": "generated/eight_seed_hodge_phase_sensitivity_rows.tex",
+    "bytes": 691,
+    "sha256": "8d9c4b662e370f1ee78fb21116330b26ed434cf0e32bc6654f83174b9028ea82"
+  }
+]
